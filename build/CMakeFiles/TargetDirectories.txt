@@ -1,0 +1,3 @@
+/home/user/Desktop/Hole Detection/build/CMakeFiles/HoleDetection.dir
+/home/user/Desktop/Hole Detection/build/CMakeFiles/edit_cache.dir
+/home/user/Desktop/Hole Detection/build/CMakeFiles/rebuild_cache.dir
