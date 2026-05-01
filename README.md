@@ -32,8 +32,11 @@ sudo apt install -y build-essential cmake libpcl-dev
 
 ## How to compile
    mkdir build
+   
    cd build
+   
    cmake ..
+   
    make -j$(nproc)
 
 ## How to run the project
