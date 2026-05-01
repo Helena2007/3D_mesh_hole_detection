@@ -3,10 +3,13 @@ This repository contains my research work on hole detection in 3D triangular mes
 The work is currently under submission.
 The work describes a robust and efficient hole detection method that detects complex irregular hole boundaries by using high curvature analysis.
 
-## Installation
+### Installation
 git clone https://github.com/Helena2007/3D_mesh_hole_detection.git
+
 cd 3D_mesh_hole_detection
+
 sudo apt update
+
 sudo apt install -y build-essential cmake libpcl-dev
 
 ## Dependencies
