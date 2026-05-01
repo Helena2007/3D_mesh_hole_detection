@@ -15,11 +15,33 @@ sudo apt update
 
 sudo apt install -y build-essential cmake libpcl-dev
 
+## Dependencies
+
+- C++ compiler with C++17 support (GCC ≥ 7 or Clang ≥ 5)
+- CMake ≥ 3.10
+- PCL (Point Cloud Library)
+
+### Required PCL Modules:
+- common
+- io
+- surface
+- search
+- kdtree
+
+### Installed Automatically with PCL:
+- Eigen (linear algebra)
+- Boost (utility libraries)
+- FLANN (nearest neighbor search)
+- VTK (visualization backend)
+
 **#How to compile**
 
 mkdir build
+
 cd build
+
 cmake ..
+
 make -j$(nproc)
 
 **#How to run the project**
