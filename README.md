@@ -1,6 +1,6 @@
 ## 3D Mesh Hole Detection
 This repository contains my research work on hole detection in 3D triangular mesh models using high curvature-based analysis.
-The work is currently under submission.
+This work is currently under submission.
 The work describes a robust and efficient hole detection method that detects complex irregular hole boundaries by using high curvature analysis.
 
 ### Installation
